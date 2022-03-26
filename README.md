@@ -1,4 +1,4 @@
-# WorkDayScheduler
+# Work Day Scheduler
 
 ## Description
 The Work Day Scheduler is a website to keep track of your tasks for your 9-5 job. You can input your tasks and save them with the save button. The Work Day Scheduler also keeps track real time, letting you know the current hour through color.
