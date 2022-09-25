@@ -9,7 +9,7 @@ The Work Day Scheduler is a website to keep track of your tasks for your 9-5 job
 - [Website](#website)
 
 ## Installation
-Run the application by clicking the following link: https://rhazama.github.io/workDayScheduler-rh/
+Run the application by clicking the following link: https://rhazama.github.io/WorkDayScheduler/
 
 ## Website
 <img width="1789" alt="workDayScheduler" src="https://user-images.githubusercontent.com/88352747/160251383-855f7e85-ae24-49a9-8cd3-62411999371c.png">
